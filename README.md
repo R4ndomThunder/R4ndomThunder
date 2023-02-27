@@ -1,6 +1,5 @@
-
-  
-  Born in Catania, Italy on December 15 1998.
+<h2 align=center>About</h2>
+Born in Catania, Italy on December 15 1998.
 
 I grew up between construction bricks and videogames, playing with Sony Playstation 2, Sega Dreamcast, Nintendo DS and Wii, PC and so on.
 
