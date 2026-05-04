@@ -25,12 +25,6 @@ After a lot of games made for game jams and third parties, in 2020 we began deve
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-lua?style=for-the-badge&logo=lua&logoColor=white)
-
-  
-<h2>GitHub Stats</h2>
-
-[![R4ndomThunder's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4ndomThunder&layout=compact&show_icons=true&theme=city_lights&hide=contribs)](https://github.com/R4ndomThunder/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4ndomThunder&layout=compact&theme=city_lights)](https://github.com/R4ndomThunder/github-readme-stats)
 </div>
 <!--
 **R4ndomThunder/R4ndomThunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
